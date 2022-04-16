@@ -1,113 +1,164 @@
-{uo_CharacterName}						{uo_Game}					{uo_description}						{uo_skills}															
-1a.Sgt Dinkle Birch						@ UOO						[VeterinaryTamer] 						[taming: 102]
-2a.Jean								@ UOO						[Gatherer] 
-3a.Bellemere							@ UOO						[ArcherDexer]							[archery: 83.5]
-4a.Barklund							@ UOO						[Tankmage] 							[resist: 80.5] [wrestling: 97]
-5a.Konsum							@ UOO						[Peace & Discord-bard w. macing]
+{uo_CharacterName}						{uo_Game}					{uo_description}						{uo_skills}															{uo_has_runebook}			{age_days}		{registrationdateyyyy/mm/dd}
+1a.Sgt Dinkle Birch						@ UOO						[VeterinaryTamer] 						[taming: 102]														[no]						[1188]			2019/01/13
+2a.Jean								@ UOO						[Gatherer] 								[mining: 84.5]		[lumberjacking: 97.2]	[fishing: 85.8]			[no]						[1185]			2019/01/16
+3a.Bellemere							@ UOO						[ArcherDexer]							[archery: 83.5]														[no]						[1160]			2019/02/10
+4a.Barklund							@ UOO						[Tankmage] 								[resist: 80.5] 														[no]						[1184]			2019/01/17
+5a.Konsum							@ UOO						[Peace & Discord-bard w. macing]																			[3]							[828]			2020/01/08
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1b.George							@ UOO						[Parry & Fencing w. 50 magery]
-2b.Twindle							@ UOO						[Gatherer] 							[mining: 95.3] 		[lumberjacking: 94.5] 	[fishing: 88.3]
-3b.Cartwright							@ UOO						[T-map picker] 							[lockpicking: 105] 	[removetrap: 104] 
-4b.Murdock							@ UOO						[Eval & Magery w. swords]					[alchemy: 72.7] 	[poisoning: 60.3]  		[resist: 80.1]
-5b.a wild slowpoke						@ UOO						[Stealth & Eval-mage w. wrestling] 				[resist: 70.1]
+1b.George							@ UOO						[Parry & Fencing w. 50 magery]																				[no]						[1188]			2019/01/13
+2b.Twindle							@ UOO						[Gatherer] 								[mining: 95.3] 		[lumberjacking: 94.5] 	[fishing: 88.3]			[no]						[1188]			2019/01/13
+3b.Cartwright							@ UOO						[T-map picker] 							[lockpicking: 105] 	[removetrap: 104] 								[7]							[1186]			2019/01/15
+4b.Murdock							@ UOO						[Eval & Magery w. swords]				[alchemy: 72.7] 	[poisoning: 60.3]  		[resist: 80.1]			[no]						[1182]			2019/01/19
+5b.a wild slowpoke						@ UOO						[Stealth & Eval-mage w. wrestling] 		[resist: 70.1]														[no]						[732]			2020/04/13
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1c.Gabriella 							@ UOO						[Parry-thief][7x]	
-2c.DangerTamer 							@ UOO						[Eval-tamer] 							[taming: 74] 
-3c.Populus							@ UOO						[Tankmage] 							[resist: 81.2]
-4c.a frenzied harpy						@ UOO						[Cartography Mule][Crafter] 
-5c.Jazzy Beat							@ UOO						[StealthHallyPets] 						[taming: 75] 
+1c.Gabriella 							@ UOO						[Parry-thief][7x]																							[1]							[1188]			2019/01/13
+2c.DangerTamer 							@ UOO						[Eval-tamer] 							[taming: 74] 														[1]							[52]			2022/02/22
+3c.Populus							@ UOO						[Tankmage] 								[resist: 81.2]														[3]							[1182]			2019/01/19
+4c.a frenzied harpy						@ UOO						[Cartography Mule][Crafter] 																				[no]						[1160]			2019/02/10
+5c.Jazzy Beat							@ UOO						[StealthHallyPets] 						[taming: 75] 														[no]						[1008]			2019/07/12
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1a.Spann							@ UOSA						[DiscordHerdingPeacemaking]
-2a.Populus							@ UOSA						[Tankmage][PK]							[resist: 96.8]
-3a.a ganksquad							@ UOSA						[StealthArcher] 
-4a.Zhung							@ UOSA						[Eval-Mage w. provocation]					[resist: 92.3]
-5a.Jennifer							@ UOSA						[StealthMage w. stealing]
+1a.Spann							@ UOSA						[DiscordHerdingPeacemaking]																												[5058]			2008/06/09
+2a.Populus							@ UOSA						[Tankmage][PK]							[resist: 96.8]																					[5058]			2008/06/09
+3a.a ganksquad							@ UOSA						[StealthArcher] 																														[5058]			2008/06/09
+4a.Zhung							@ UOSA						[Eval-Mage w. provocation]				[resist: 92.3]																					[5058]			2008/06/09
+5a.Jennifer							@ UOSA						[StealthMage w. stealing]																												[5058]			2008/06/09
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1b.The Wind							@ UOSA						[Tinker] [PK]						
-2b.Populus							@ UOSA						[Macing Dexer w. Detect Hidden]					[STATLOSSED]
-3b.ShakeABaby							@ UOSA						[T-mapper][MIB][Eval-mage]				
-4b.Populus							@ UOSA						[Tankmage][7x]							
+1b.The Wind							@ UOSA						[Tinker] [PK]																															[4658]			2009/07/14
+2b.Populus							@ UOSA						[Macing Dexer w. Detect Hidden]			[STATLOSSED]																					[4658]			2009/07/14
+3b.ShakeABaby							@ UOSA						[T-mapper][MIB][Eval-mage]																												[4658]			2009/07/14
+4b.Populus							@ UOSA						[Tankmage][7x]																															[4658]			2009/07/14
 5b.FREE CHARACTER SLOT						@ UOSA						
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1c.Kander							@ UOSA						[Tamer][Eval-mage]						[taming: 68.5] [peacemaking: 96.3]
-2c.Mary Elisabeth W						@ UOSA						[ItemID][DetectHidden][GateKiller]	
-3c.Wesley Crusher						@ UOSA						[Stealth-Eval-Mage]						[tracking: 74.6]
-4c.chumbucket							@ UOSA						[Stealth-Eval-Mage w. stealing]					[stealing: 97.3]
-5c.Ugodatwayigohome						@ UOSA						[StealthMage w. stealing]
+1c.Kander							@ UOSA						[Tamer][Eval-mage]						[taming: 68.5] [peacemaking: 96.3]																[4658]			2009/07/14
+2c.Mary Elisabeth W						@ UOSA						[ItemID][DetectHidden][GateKiller]																										[4658]			2009/07/14
+3c.Wesley Crusher						@ UOSA						[Stealth-Eval-Mage]						[tracking: 74.6]																				[4658]			2009/07/14
+4c.chumbucket							@ UOSA						[Stealth-Eval-Mage w. stealing]			[stealing: 97.3]																				[4658]			2009/07/14
+5c.Ugodatwayigohome						@ UOSA						[StealthMage w. stealing]																												[4658]			2009/07/14
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Level Populus 							@ WoW:Classic				[lvl: 34]			[Rogue]				(Skullflame)		[Horde]
-Level Faquarl 							@ WoW:Classic				[lvl: 11]			[Mage]				(Skullflame)		[Horde]
-Level Domina	 						@ WoW:Classic				[lvl: 20]			[Hunter]			(Skullflame)		[Horde]
-Level Kiferal 							@ WoW:Classic				[lvl: 5]			[Shaman]			(Skullflame)		[Horde]
-Level Kuffalo 							@ WoW:Classic				[lvl: 14]			[Druid]				(Skullflame)		[Horde]
-Message								@ WoW:Classic				[lvl: 1]	[Mule]		[Warrior]			(Skullflame)		[Horde]
+{CharacterName}							{Game}					{Level}				{Class}				{Realm}				{Faction}																	{time_played}
+Populus 							@ WoW:Classic				[lvl: 34]			[Rogue]				(Skullflame)		[Horde]		[lw:162][ski:256][coo:212][fir:175][fis:121]					2d, 14h
+Faquarl 							@ WoW:Classic				[lvl: 11]			[Mage]				(Skullflame)		[Horde]		[alc:1][enc:35]													0d, 3h
+Domina	 							@ WoW:Classic				[lvl: 20]			[Hunter]			(Skullflame)		[Horde]		[her:55][ski:150][coo:1]										0d, 17h
+Kiferal 							@ WoW:Classic				[lvl: 5]			[Shaman]			(Skullflame)		[Horde]		[her:2]															51m
+Kuffalo 							@ WoW:Classic				[lvl: 14]			[Druid]				(Skullflame)		[Horde]		[her:40][ski:75][coo:1]											7h, 51m
+Message								@ WoW:Classic				[lvl: 1]	[Mule]	[Warrior]			(Skullflame)		[Horde]		[her:1][coo:1]													1h
+{summaryRow}														{lvl/characters}						{differentrealms}	{amount h vs a}																{time_played_total}
+{summaryRow}														14,16									{1}					{6h}																		3d, 20h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Level Mitoshi 							@ WoW 						[lvl: 58]			[Priest]			(Tarren Mill)		[Horde]
-Level Duacron 							@ WoW 						[lvl: 50]			[Shaman]			(Tarren Mill)		[Horde]
-Level Gustafvasa 						@ WoW 						[lvl: 40]			[DemonHunter]			(Tarren Mill)		[Horde]
-Level Clemenceii						@ WoW						[lvl: 50]			[DeathKnight]			(Tarren Mill)		[Horde]
-Level Turororo							@ WoW						[lvl: 50]			[Druid]				(Tarren Mill)		[Horde]
-Level Krossarn 							@ WoW 						[lvl: 50]			[Warrior]			(Burning Legion)	[Horde]
-Level Populus 							@ WoW 						[lvl: 35]			[Rogue]				(Burning Legion)	[Horde]
-Level Bartimaeus 						@ WoW 						[lvl: 30]			[Mage]				(Burning Legion)	[Horde]
-Level Kellerman							@ WoW						[lvl: 10]			[Hunter]			(Burning Legion)	[Horde]
-Level Generaisnus						@ WoW						[lvl: 6]			[Warlock]			(Burning Legion)	[Horde]
-Level Lachance							@ WoW						[lvl: 4]			[Shaman]			(Burning Legion)	[Horde]
-Level Voodoohex							@ WoW						[lvl: 15]			[Priest]			(Burning Legion)	[Horde]
-Level Leavehimtome						@ WoW						[lvl: 23]			[DeathKnight]			(Burning Legion)	[Horde]
-Level Gulleplutten						@ WoW						[lvl: 1]			[Shaman]			(Trollbane)			[Alliance]
-Level Alanpran							@ WoW						[lvl: 24]			[Paladin]			(Trollbane)			[Alliance]
-Level Mitoshi							@ WoW						[lvl: 30]			[Priest]			(Trollbane)			[Alliance]
-Level Leftsock							@ WoW						[lvl: 4]			[Warlock]			(Trollbane)			[Alliance]
-Level Bartimaêus						@ WoW						[lvl: 24]			[Warlock]			(Bloodhoof)			[Alliance]
-Level Spík							@ WoW						[lvl: 26]			[DeathKnight]			(Jaedenar)			[Horde]
+{CharacterName}							{Game}						{Level}				{Class}				{Realm}				{Faction}																	{time_played}
+Mitoshi 							@ WoW 						[lvl: 59]			[Priest]			(Tarren Mill)		[Horde]		[her:	300/300][8/100][166/175]									10d, 22h
+																																			[min:	300/300][1/75][3/100][153/175]
+																																			[coo:		300/300][75/75][75/75][75/75][75/75][68/100][1/100][1/175]
+																																			[fis:	300/300][75/75][2/75][1/75][1/75][1/100][1/100][28/175]
+																																			[arc:	104/800]
+Duacron 							@ WoW 						[lvl: 50]			[Shaman]			(Tarren Mill)		[Horde]		[her:	1/300][150/175]											3d, 5h
+																																			[min:	1/300][150/175]
+																																			[coo:		1/300][1/175]
+																																			[fis:	1/300][1/75][1/75][1/75][1/75][1/100][1/100][53/175]		
+																																			[arc:	154/700]
+Gustafvasa 							@ WoW 						[lvl: 40]			[DemonHunter]		(Tarren Mill)		[Horde]		[pro:	no]														4h
+Clemenceii							@ WoW						[lvl: 50]			[DeathKnight]		(Tarren Mill)		[Horde]		[pro:	no]														new
+Turororo							@ WoW						[lvl: 50]			[Druid]				(Tarren Mill)		[Horde]		[pro:	no]														new
+Krossarn 							@ WoW 						[lvl: 50]			[Warrior]			(Burning Legion)	[Horde]		[min:	295/300][49/75][59/75][47/75][43/100][30/100][27/175]	3d, 8h
+																																			[ski:	300/300][75/75][48/75][9/100][47/100][144/175]
+																																			[coo:		1/300][1/75][1/75][0/0][1/100]
+																																			[fis:	1/300][1/75][1/75][17/100]
+																																			[arc:	43/700]
+Populus 							@ WoW 						[lvl: 35]			[Rogue]				(Burning Legion)	[Horde]		[min:	300/300][75/75][75/75][32/75]							86d, 23h
+																																			[ski:	1/300][58/75]
+																																			[coo:		300/300][75/75][24/75][1/75]
+																																			[fis:	300/300][60/75][1/75]
+																																			[arc:	1/600]				
+Bartimaeus 							@ WoW 						[lvl: 30]			[Mage]				(Burning Legion)	[Horde]		[tai:	300/300][48/75][1/75]									14d, 18h
+																																			[enc:	261/300]
+																																			[coo:		40/300]
+																																			[fis:	11/300]
+																																			[arc:	1/525]					
+Kellerman							@ WoW						[lvl: 10]			[Hunter]			(Burning Legion)	[Horde]																		22h
+Generaisnus							@ WoW						[lvl: 6]			[Warlock]			(Burning Legion)	[Horde]																		7h
+Lachance							@ WoW						[lvl: 4]			[Shaman]			(Burning Legion)	[Horde]																		2h
+Voodoohex							@ WoW						[lvl: 15]			[Priest]			(Burning Legion)	[Horde]																		3d, 3h
+Leavehimtome							@ WoW						[lvl: 23]			[DeathKnight]		(Burning Legion)	[Horde]																		0h
+Gulleplutten							@ WoW						[lvl: 1]			[Shaman]			(Trollbane)			[Alliance]		
+Alanpran							@ WoW						[lvl: 24]			[Paladin]			(Trollbane)			[Alliance]	[min:64]														3d, 2h
+																																			[eng:68]
+Mitoshi								@ WoW						[lvl: 30]			[Priest]			(Trollbane)			[Alliance]	[her:300/300][75/75][75/75]										18d, 15h
+																																			[tai:300/300][75/75][50/75][1/75]
+Leftsock							@ WoW						[lvl: 4]			[Warlock]			(Trollbane)			[Alliance]		
+Bartimaêus							@ WoW						[lvl: 25]			[Warlock]			(Bloodhoof)			[Alliance]	[][]															1d, 2h
+Spík								@ WoW						[lvl: 26]			[DeathKnight]		(Jaedenar)			[Horde]		[mining:1]														23h
+{summaryRow}														{lvl/characters}						{differentrealms}	{amount h vs a}																{time_played_total}
+{summaryRow}														27,89									{5}					{14h,5a}																	147d, 12h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Level Lappahlapapp 						@ Diablo 2 : Resurrected	[lvl: 89]			[Paladin]		[Hammerdin]
-Level Droodolollee 						@ Diablo 2 : Resurrected 	[lvl: 25]			[Druid]			[Wind druid]
-Level an amazon							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]		[Amazon]
-Level a barbarian						@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]		[Barbarian]
-Level Populus							@ Diablo 2 : Resurrected	[lvl: 11]			[Necromancer]
-Level HOHOHO							@ Diablo 2 : Resurrected	[lvl: 12]			[Sorceress]
-Level babararupha						@ Diablo 2 : Resurrected	[lvl: 6]			[Barbarian]
-Level Traplayer							@ Diablo 2 : Resurrected	[lvl: 9]			[Assassin]
-Level Baracka							@ Diablo 2 : Resurrected	[lvl: 3]			[Barbarian]
-Level DemonSleeper						@ Diablo 2 : Resurrected	[lvl: 6]			[Paladin]		[Offline]
+Sarah Beau							@ Guild Wars 2				[lvl: 49]			[Elementalist]		(Gandara)
+Ronald MacBrute							@ Guild Wars 2				[lvl: 30]			[Warrior]			(Gandara)
+Sarah Lovecraft							@ Guild Wars 2				[lvl: 8]			[Guardian]			(Gandara)
+Cindy Reverse							@ Guild Wars 2				[lvl: 10]			[Ranger]			(Gandara)
+Linda Fervor							@ Guild Wars 2				[lvl: 12]			[Ranger]			(Gandara)	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Populus								@ Archeage					[lvl: 50]			[Darkrunner]		(Leviathan)
+Bartimaeus							@ Archeage					[lvl: 35]			[Demonologist]		(Leviathan)	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Norry Sot							@ New World					[lvl: 25]			[N/A]				(US East)
+Morocko								@ New World					[lvl: 16]			[N/A]				(EU Central)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{CharacterName}							{Game}				{Level}				{Class}			{Type}				{latest_note}																	{time_played}
+Lappahlapapp 							@ Diablo 2 : Resurrected	[lvl: 89]			[Paladin]		[Hammerdin]																							N/A
+Droodolollee 							@ Diablo 2 : Resurrected 	[lvl: 25]			[Druid]			[Wind druid]		(Inte Act 5 iaf)																N/A
+an amazon							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]	[Amazon]																											N/A
+a barbarian							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]	[Barbarian]																											N/A
+Populus								@ Diablo 2 : Resurrected	[lvl: 11]			[Necromancer]																										N/A
+HOHOHO								@ Diablo 2 : Resurrected	[lvl: 12]			[Sorceress]																											N/A
+babararupha							@ Diablo 2 : Resurrected	[lvl: 6]			[Barbarian]																											N/A
+Traplayer							@ Diablo 2 : Resurrected	[lvl: 9]			[Assassin]																											N/A
+Baracka								@ Diablo 2 : Resurrected	[lvl: 3]			[Barbarian]																											N/A
+DemonSleeper							@ Diablo 2 : Resurrected	[lvl: 6]			[Paladin]		[Offline]																							N/A
+{summaryRow}														{lvl/characters}
+{summaryRow}														16,3
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Play Battlegrounds						@ Hearthstone				[#1: 18][#1-4: 87][rating: 1738]
 Play Arena							@ Hearthstone				[gold: 2760]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play Open-queue Competitive					@ Overwatch					[rating: 1264]	[lvl: 756]
+Play Open-queue Competitive					@ Overwatch				[rating: 1264]	[lvl: 756]	[zaryahours: 154]	[games: 3069]	[medals: 7721]															811h
+{summaryRow}																																																34d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Play Competitive						@ Starcraft II				[record: platinum]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play Quickplay							@ Heroes of the Storm		[lvl: 153]
+Play Quickplay							@ Heroes of the Storm			[lvl: 153] [matches_played: 305]
+{summaryRow}																																																
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play Competitive						@ CS:GO						[record: supreme]
+Play Competitive						@ CS:GO					[record: supreme]																														581h
+{summaryRow}																																																24d, 5h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play 								@ Fallout 4					[new character]
+Play Competitive						@ Dota 2				[matches_played: 1198]	[explevel: 79]																									1505h
+{summaryRow}																																																62d, 17h
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Play 								@ Fallout 4				[new character]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Play PQL CA							@ Quake Live				
 Play VQ3 Duel							@ Quake Live
 Play PQL Duel							@ Quake Live
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Level DangerBicepsFleming					@ Path of Exile 			[lvl: 78]	[Witch]		[Standard]		[Skill-reset]	[Gear-reset]
-Level Frifirfir							@ Path of Exile				[lvl: 64]	[Ranger]	[Standard]		[Skill-reset]					[LightningArrow]
-Level JuggaloKatyPerry						@ Path of Exile				[lvl: 72]	[Witch]		[Standard]		[Skill-reset]	[Gear-reset]
-Level KoalaMurreley						@ Path of Exile 			[lvl: 65]	[Marauder]	[Standard]		[Skill-reset]					[Icecrash, GroundSlam]
-Level Pewereraa							@ Path of Exile				[lvl: 89]	[Marauder]	[Standard]								[Sunder]
-Level ProxyBoxxy						@ Path of Exile				[lvl: 59]	[Assassin]	[Standard]								[EtherealKnives]
-Level SAggaergaerga						@ Path of Exile				[lvl: 77]	[Ranger]	[Standard]		[Skill-reset]					[SplitArrow-Elemental]
-Level SEVENOOSSEVENOOS						@ Path of Exile				[lvl: 83]	[Scion]		[Standard]		[Skill-reset]	[Gear-reset]
-Level Slingerofpebbles						@ Path of Exile				[lvl: 62]	[Templar]	[Hardcore]		[Skill-reset]					[PowerSiphon]
-Level Sperururu							@ Path of Exile				[lvl: 53]	[Witch]		[SSF]			[Skill-reset]	[idk]
-Level StringFoo							@ Path of Exile				[lvl: 46]	[Witch]		[SSF]									[Arc, Summons]
-Level SuperDoge							@ Path of Exile				[lvl: 81]	[Scion]		[Standard]						[Gem-reset] 
-Level Teelaaaaaaaaaaa						@ Path of Exile				[lvl: 49]	[Witch]		[Standard]		[Skill-reset]					[LightningSpells]
-Level ThunderJane						@ Path of Exile				[lvl: 50]	[Ranger]	[Hardcore]		[Skill-reset]	[Gear-reset]
-Level Thwosrt							@ Path of Exile				[lvl: 71]	[Marauder]	[Standard]		[Skill-reset]					[InfernalBlow]
-Level TwiddlesticksMcGee					@ Path of Exile				[lvl: 88]	[Assassin]	[Standard]		[Skill-reset]					[KineticBlast]
-Level Wtfimch							@ Path of Exile				[lvl: 56]	[Scion]		[Standard]		[Skill-reset]					[StaffCyclone]
-Level VapenVapen						@ Path of Exile				[lvl: 44]	[Duelist]	[Archnemesis]								[IceCrash]
+DangerBicepsFleming						@ Path of Exile 			[lvl: 78]	[Witch]		[Standard]		[Skill-reset]	[Gear-reset]
+Frifirfir							@ Path of Exile				[lvl: 64]	[Ranger]	[Standard]		[Skill-reset]					[LightningArrow]
+JuggaloKatyPerry						@ Path of Exile				[lvl: 72]	[Witch]		[Standard]		[Skill-reset]	[Gear-reset]
+KoalaMurreley							@ Path of Exile 			[lvl: 65]	[Marauder]	[Standard]		[Skill-reset]					[Icecrash, GroundSlam]
+Pewereraa							@ Path of Exile				[lvl: 89]	[Marauder]	[Standard]										[Sunder]
+ProxyBoxxy							@ Path of Exile				[lvl: 59]	[Assassin]	[Standard]										[EtherealKnives]
+SAggaergaerga							@ Path of Exile				[lvl: 77]	[Ranger]	[Standard]		[Skill-reset]					[SplitArrow-Elemental]
+SEVENOOSSEVENOOS						@ Path of Exile				[lvl: 83]	[Scion]		[Standard]		[Skill-reset]	[Gear-reset]
+Slingerofpebbles						@ Path of Exile				[lvl: 62]	[Templar]	[Hardcore]		[Skill-reset]					[PowerSiphon]
+Sperururu							@ Path of Exile				[lvl: 53]	[Witch]		[SSF]			[Skill-reset]	[idk]
+StringFoo							@ Path of Exile				[lvl: 46]	[Witch]		[SSF]											[Arc, Summons]
+SuperDoge							@ Path of Exile				[lvl: 81]	[Scion]		[Standard]						[Gem-reset] 
+Teelaaaaaaaaaaa							@ Path of Exile				[lvl: 49]	[Witch]		[Standard]		[Skill-reset]					[LightningSpells]
+ThunderJane							@ Path of Exile				[lvl: 50]	[Ranger]	[Hardcore]		[Skill-reset]	[Gear-reset]
+Thwosrt								@ Path of Exile				[lvl: 71]	[Marauder]	[Standard]		[Skill-reset]					[InfernalBlow]
+TwiddlesticksMcGee						@ Path of Exile				[lvl: 88]	[Assassin]	[Standard]										[KineticBlast]			(dies a lot)
+Wtfimch								@ Path of Exile				[lvl: 56]	[Scion]		[Standard]		[Skill-reset]					[StaffCyclone]
+VapenVapen							@ Path of Exile				[lvl: 44]	[Duelist]	[Archnemesis]									[IceCrash]
+{summaryRow}														{lvl/characters}
+{summaryRow}														65,94
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Play Single-player(Storymode)					@ Grand Theft Auto V		
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -119,9 +170,9 @@ Play Single-player						@ Civilization VI
 Play Multiplayer						@ Fallout 76
 	Try not to get caught roleplaying			@ Fallout 76
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Level ???							@ Old School Runescape		[lvl: 78]	[strength: 26]	[prayer: 12]	[hitpoints: 19]
+Level ???							@ Old School Runescape			[lvl: 78]	[strength: 26]	[prayer: 12]	[hitpoints: 19]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Catch Pokemons							@ Pokemon Go				[lvl: 36] [pokemons: 447/550] [caught: 509] [seen:613]
+ohforfsak							@ Pokemon Go				[lvl: 36] [pokemons: 447/550] [caught: 509] [seen:613]
 	{Quests}
 	Fleet of Gengars					@ Pokemon Go
 	Shiny 15/15/15 Gyarados					@ Pokemon Go
@@ -133,7 +184,7 @@ Play Fallout: Shelter						@ Fallout Shelter
 	200/200 Dwellers					@ Fallout Shelter			[dwellers: 120/200]
 	Full S.P.E.C.I.A.L Stats				@ Fallout Shelter			[x/y]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play NL Texas Hold'em						@ Pokerstars.se				
+ThunderBiceps							@ Pokerstars.se				[loss: 1117,61 SEK]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HTTPS/SSL							@ Server
 Dynamisk IP							@ Server
@@ -144,9 +195,20 @@ Program this text-document in Java. 				@ Intellij Ultimate
 Learn RunUO							@ Visual Studio	
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Watch a video in my 'watch-later'				@ Youtube.com	
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hailey Elisabeth						@ Eve Online				[skillpoints: 15,057,091]
+Cpt Purple							@ Eve Online				[skillpoints: low]
+Margaret Fiddletwee						@ Eve Online				[skillpoints: 1,264,943]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Play Super Hexagon						@ Super Hexagon				[hard: 205:57]
+Play Super Hexagon						@ Super Hexagon				[harder: 146:29]
+Play Super Hexagon						@ Super Hexagon				[hardest: 71:23]
+Play Super Hexagon						@ Super Hexagon				[hardester: 149:40]
+Play Super Hexagon						@ Super Hexagon				[hardestest: 48:30]
+Play Super Hexagon						@ Super Hexagon				[hardestestest: 11:18]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Time Played set							@ 2022/04/15
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
