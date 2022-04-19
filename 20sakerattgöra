@@ -36,16 +36,16 @@
 5c.Ugodatwayigohome						@ UOSA						[StealthMage w. stealing]																										[4658]			2009/07/14
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 {CharacterName}							{Game}						{Level}				{Class}				{Realm}			{Faction}																	{time_played}
-Populus 							@ WoW:Classic					[lvl: 34]			[Rogue]				(Skullflame)		[Horde]		[lw:162][ski:256][coo:212][fir:175][fis:121]												2d, 14h
-Faquarl 							@ WoW:Classic					[lvl: 11]			[Mage]				(Skullflame)		[Horde]		[alc:1][enc:35]																0d, 3h
-Domina	 							@ WoW:Classic					[lvl: 20]			[Hunter]			(Skullflame)		[Horde]		[her:55][ski:150][coo:1]														0d, 17h
-Kiferal 							@ WoW:Classic					[lvl: 5]			[Shaman]			(Skullflame)		[Horde]		[her:2]																	51m
-Kuffalo 							@ WoW:Classic					[lvl: 14]			[Druid]				(Skullflame)		[Horde]		[her:40][ski:75][coo:1]															7h, 51m
-Message								@ WoW:Classic					[lvl: 1]	[Mule]		[Warrior]				(Skullflame)		[Horde]		[her:1][coo:1]																1h
-{summaryRow}													{lvl/characters}						{differentrealms}	{amount h vs a}																		{time_played_total}
-{summaryRow}													14,16								{1}			{6h}																	3d, 20h
+Populus 							@ WoW:Classic					[lvl: 34]			[Rogue]				(Skullflame)		[Horde]		[lw:162][ski:256][coo:212][fir:175][fis:121]											2d, 14h
+Faquarl 							@ WoW:Classic					[lvl: 11]			[Mage]				(Skullflame)		[Horde]		[alc:1][enc:35]															0d, 3h
+Domina	 							@ WoW:Classic					[lvl: 20]			[Hunter]			(Skullflame)		[Horde]		[her:55][ski:150][coo:1]													0d, 17h
+Kiferal 							@ WoW:Classic					[lvl: 5]			[Shaman]			(Skullflame)		[Horde]		[her:2]																51m
+Kuffalo 							@ WoW:Classic					[lvl: 14]			[Druid]				(Skullflame)		[Horde]		[her:40][ski:75][coo:1]														7h, 51m
+Message								@ WoW:Classic					[lvl: 1]	[Mule]		[Warrior]				(Skullflame)		[Horde]		[her:1][coo:1]														1h
+{summaryRow}													{lvl/characters}						{differentrealms}	{amount h vs a}																	{time_played_total}
+{summaryRow}													14,16								{1}			{6h}																		3d, 20h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-{CharacterName}							{Game}						{Level}				{Class}				{Realm}			{Faction}																{time_played}
+{CharacterName}							{Game}						{Level}				{Class}				{Realm}			{Faction}																	{time_played}
 Mitoshi 							@ WoW 						[lvl: 59]			[Priest]			(Tarren Mill)		[Horde]		[her:	300/300][81/100][166/175]												10d, 22h
 																											[min:	300/300][1/75][47/100][153/175]
 																											[coo:		300/300][75/75][75/75][75/75][75/75][68/100][1/100][1/175]
@@ -56,8 +56,8 @@ Duacron 							@ WoW 						[lvl: 50]			[Shaman]			(Tarren Mill)		[Horde]		[her:	
 																											[coo:		1/300][1/175]
 																											[fis:	1/300][1/75][1/75][1/75][1/75][1/100][1/100][53/175]		
 																											[arc:	154/700]
-Gustafvasa 							@ WoW 						[lvl: 40]			[DemonHunter]			(Tarren Mill)		[Horde]		[pro:	no]																4h
-Clemenceii							@ WoW						[lvl: 50]			[DeathKnight]			(Tarren Mill)		[Horde]		[pro:	no]																new
+Gustafvasa 							@ WoW 						[lvl: 40]			[DemonHunter]			(Tarren Mill)		[Horde]		[pro:	no]															4h
+Clemenceii							@ WoW						[lvl: 50]			[DeathKnight]			(Tarren Mill)		[Horde]		[pro:	no]															new
 Turororo							@ WoW						[lvl: 50]			[Druid]				(Tarren Mill)		[Horde]		[pro:	no]															new
 Krossarn 							@ WoW 						[lvl: 50]			[Warrior]			(Burning Legion)	[Horde]		[min:	295/300][49/75][59/75][47/75][43/100][30/100][27/175]									3d, 8h
 																											[ski:	300/300][75/75][48/75][9/100][47/100][144/175]
@@ -95,8 +95,8 @@ Ronald MacBrute							@ Guild Wars 2					[lvl: 30]			[Warrior]			(Gandara)
 Sarah Lovecraft							@ Guild Wars 2					[lvl: 8]			[Guardian]			(Gandara)																						
 Cindy Reverse							@ Guild Wars 2					[lvl: 10]			[Ranger]			(Gandara)																						
 Linda Fervor							@ Guild Wars 2					[lvl: 12]			[Ranger]			(Gandara)																						
-{summaryRow}													{lvl/characters}						{differentrealms}																		{time_played_total}			{reg_date}
-{summaryRow}													21,8								{1}																			103h					2012/09/17		
+{summaryRow}													{lvl/characters}						{differentrealms}																			{time_played_total}			{reg_date}
+{summaryRow}													21,8								{1}																					103h					2012/09/17		
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Populus								@ Archeage					[lvl: 50]			[Darkrunner]			(Leviathan)
 Bartimaeus							@ Archeage					[lvl: 35]			[Demonologist]			(Leviathan)	
@@ -104,11 +104,11 @@ Bartimaeus							@ Archeage					[lvl: 35]			[Demonologist]			(Leviathan)
 Norry Sot							@ New World					[lvl: 25]			[N/A]				(US East)
 Morocko								@ New World					[lvl: 16]			[N/A]				(EU Central)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-{CharacterName}							{Game}				{Level}				{Class}			{Type}				{latest_note}																	{time_played}
+{CharacterName}							{Game}				{Level}				{Class}			{Type}				{latest_note}																			{time_played}
 Lappahlapapp 							@ Diablo 2 : Resurrected	[lvl: 89]			[Paladin]		[Hammerdin]																							N/A
-Droodolollee 							@ Diablo 2 : Resurrected 	[lvl: 25]			[Druid]			[Wind druid]																					N/A
-an amazon							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]		[Amazon]																											N/A
-a barbarian							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]		[Barbarian]																											N/A
+Droodolollee 							@ Diablo 2 : Resurrected 	[lvl: 25]			[Druid]			[Wind druid]																							N/A
+an amazon							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]		[Amazon]																										N/A
+a barbarian							@ Diablo 2 : Resurrected	[lvl: 1]	[Mule]		[Barbarian]																										N/A
 Populus								@ Diablo 2 : Resurrected	[lvl: 11]			[Necromancer]																										N/A
 HOHOHO								@ Diablo 2 : Resurrected	[lvl: 12]			[Sorceress]																										N/A
 babararupha							@ Diablo 2 : Resurrected	[lvl: 6]			[Barbarian]																										N/A
@@ -121,7 +121,7 @@ DemonSleeper							@ Diablo 2 : Resurrected	[lvl: 6]			[Paladin]		[Offline]					
 Play Battlegrounds						@ Hearthstone			[#1: 18][#1-4: 87][rating: 1738]
 Play Arena							@ Hearthstone			[gold: 2760]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play Open-queue Competitive					@ Overwatch			[rating: 1264]	[lvl: 756]	[zaryahours: 154]	[games: 3069]	[medals: 7721]																			811h
+Play Open-queue Competitive					@ Overwatch			[rating: 1264]	[lvl: 756]	[zaryahours: 154]	[games: 3069]	[medals: 7721]																					811h
 {summaryRow}																																										34d
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Play Competitive						@ Starcraft II			[record: platinum]
@@ -129,10 +129,10 @@ Play Competitive						@ Starcraft II			[record: platinum]
 Play Quickplay							@ Heroes of the Storm		[lvl: 153] [matches_played: 305]
 {summaryRow}																																																
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play Competitive						@ CS:GO				[record: supreme]																											581h
+Play Competitive						@ CS:GO				[record: supreme]																													581h
 {summaryRow}																																										24d, 5h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Play Competitive						@ Dota 2			[matches_played: 1198]	[explevel: 79]																									1505h
+Play Competitive						@ Dota 2			[matches_played: 1198]	[explevel: 79]																											1505h
 {summaryRow}																																										62d, 17h
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Play 								@ Fallout 4			[new character]
